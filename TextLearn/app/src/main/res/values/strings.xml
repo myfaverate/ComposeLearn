@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">TextLearn</string>
     <string name="the_book_of_songs">桃之夭夭，灼灼其华。之子于归，宜其室家。</string>
+    <string name="content">
+        如果你看到了这个界面，就默认代表你同意我们的所有用户协议（bushi）
+    </string>
 </resources>
