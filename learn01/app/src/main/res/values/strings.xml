@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">learn01</string>
+    <string name="head_portrait">这是一张头像图片</string>
+    <string name="color_change_animation_string">颜色改变动画</string>
+</resources>
