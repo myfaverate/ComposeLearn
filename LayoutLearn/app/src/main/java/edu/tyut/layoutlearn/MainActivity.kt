@@ -759,5 +759,6 @@ fun AppDrawerContent(
 fun PreviewRowLearn(){
     AppScaffold()
 }
+// 这是 master 的代码内容和 pull_request1 分支的代码内容冲突
 // TODO Scaffold, BottomNavigation
 // https://github.com/compose-museum/jetpack-compose-book/blob/master/docs/code/layout/scaffold/scaffold.kt
